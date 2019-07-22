@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="c3p0-0.9.5.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/other/c3p0-0.9.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/other/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/other/hamcrest-all-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/other/hamcrest-integration-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/other/javax.activation-1.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/other/javax.servlet.jsp.jstl-1.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/other/javax.servlet.jsp.jstl-api-1.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/other/jaxb-api-2.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/other/jaxb-core-2.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/other/jaxb-impl-2.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/other/mchange-commons-java-0.2.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/other/mysql-connector-java-8.0.16.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="IdeaProjects:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/IdeaProjects_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Zadolbalo/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Zadolbalo" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="dom4j-2.1.1" />
+          <element id="library" level="project" name="c3p0-0.9.5.2" />
+          <element id="library" level="project" name="spring-websocket-5.1.7.RELEASE-sources" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="dom4j-2.1.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/hibertnate/dom4j-2.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/hibertnate/classmate-1.3.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/hibertnate/antlr-2.7.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/hibertnate/byte-buddy-1.9.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/hibertnate/hibernate-core-5.4.3.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/hibertnate/hibernate-commons-annotations-5.1.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/hibertnate/hibernate-c3p0-5.2.12.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/hibertnate/FastInfoset-1.2.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/hibertnate/istack-commons-runtime-3.0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/hibertnate/javassist-3.24.0-GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/hibertnate/jandex-2.0.5.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/hibertnate/javax.activation-api-1.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/hibertnate/javax.persistence-api-2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/hibertnate/jaxb-api-2.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/hibertnate/jaxb-runtime-2.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/hibertnate/jboss-logging-3.3.2.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/hibertnate/jboss-transaction-api_1.2_spec-1.1.1.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/hibertnate/stax-ex-1.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/hibertnate/txw2-2.3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
