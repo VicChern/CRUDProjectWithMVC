@@ -19,8 +19,6 @@
 
 <body>
 
-<h1>HELLO WORLD</h1>
-
 <div id="wrapper">
     <div id="header">
         <h2>CRM - Customer Relationship Manager</h2>
