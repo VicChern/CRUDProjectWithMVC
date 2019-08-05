@@ -41,5 +41,6 @@
     <orderEntry type="library" name="dom4j-2.1.1" level="project" />
     <orderEntry type="library" name="c3p0-0.9.5.2" level="project" />
     <orderEntry type="library" name="spring-websocket-5.1.7.RELEASE-sources" level="project" />
+    <orderEntry type="library" name="aspectjweaver-1.9.4" level="project" />
   </component>
 </module>

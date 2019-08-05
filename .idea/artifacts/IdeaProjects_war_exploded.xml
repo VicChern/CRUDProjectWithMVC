@@ -11,6 +11,7 @@
           <element id="library" level="project" name="dom4j-2.1.1" />
           <element id="library" level="project" name="c3p0-0.9.5.2" />
           <element id="library" level="project" name="spring-websocket-5.1.7.RELEASE-sources" />
+          <element id="library" level="project" name="aspectjweaver-1.9.4" />
         </element>
       </element>
     </root>

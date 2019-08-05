@@ -1,9 +1,8 @@
 package com.company.controller;
 
-import com.company.dao.CustomerDAO;
 import com.company.entity.Customer;
 import com.company.service.CustomerService;
-import org.dom4j.rule.Mode;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
@@ -18,9 +17,9 @@ public class CustomerController {
     @Autowired
     private CustomerService customerService;
 
-    public CustomerService getCustomerDAO() {
-        return customerService;
-    }
+//    public CustomerService getCustomerDAO() {
+//        return customerService;
+//    }
 
     @GetMapping("/list")
     public String listCustomers(Model theModel) {
